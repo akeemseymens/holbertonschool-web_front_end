@@ -22,32 +22,32 @@ h6 {
 }
 
 a:link {
-    color: var(--text-color);
-    text-decoration: none;
+   color: var(--text-color);
+   text-decoration: none;
 }
 
 a:visited {
-   font-style: italic; 
+  font-style: italic;
 }
 
 a:hover {
-    text-decoration: underline;
+  text-decoration: underline;
 }
 
 a:active {
-    background-color: var(--color-light-grey);
+  background-color: var(--color-light-grey);
 }
 
 .visually-hidden {
-    display: none;
+  display: none;
 }
 
 .card-category {
-    color: var(--color-primary);
+  color: var(--color-primary);
 }
 
 .section-header {
-    text-align: var(--section-header-align);
+  text-align: var(--section-header-align);
 }
 
 .section-title {
