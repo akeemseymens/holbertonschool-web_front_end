@@ -148,16 +148,16 @@ html {
   /* # sourceMappingURL=normalize.min.css.map */
 
 html {
-    scroll-behavior: smooth;
-    font-size: 62.5%;
+  scroll-behavior: smooth;
+  font-size: 62.5%;
 }
 
 body {
-    color: var(--text-color);
-    font-family: var(--font-family-base);
-    font-size: var(--font-size-medium);
-    font-weight: var(--font-weight-regular);
-    line-height: var(--line-height-base);
+  color: var(--text-color);
+  font-family: var(--font-family-base);
+  font-size: var(--font-size-medium);
+  font-weight: var(--font-weight-regular);
+  line-height: var(--line-height-base);
 }
 
 h1,
@@ -166,37 +166,37 @@ h3,
 h4,
 h5,
 h6 {
-    font-family: var(--font-family-title);
-    font-weight: var(--font-weight-bold);
+  font-family: var(--font-family-title);
+  font-weight: var(--font-weight-bold);
 }
 
 a:link {
-    color: var(--text-color);
-    text-decoration: none;
+  color: var(--text-color);
+  text-decoration: none;
 }
 
 a:visited {
-   font-style: italic; 
+  font-style: italic;
 }
 
 a:hover {
-    text-decoration: underline;
+  text-decoration: underline;
 }
 
 a:active {
-    background-color: var(--color-light-grey);
+  background-color: var(--color-light-grey);
 }
 
 .visually-hidden {
-    display: none;
+  display: none;
 }
 
 .card-category {
-    color: var(--color-primary);
+  color: var(--color-primary);
 }
 
 .section-header {
-    text-align: var(--section-header-align);
+  text-align: var(--section-header-align);
 }
 
 .section-title {
@@ -208,11 +208,11 @@ a:active {
 }
 
 .section-tagline {
-    color: var(--color-primary);
-    font-family: var(--font-family-title);
-    text-transform: var(--section-tagline-transform);
-    font-weight: var(--font-weight-bold)
-    margin: var(--section-tagline-margin);
+  color: var(--color-primary);
+  font-family: var(--font-family-title);
+  text-transform: var(--section-tagline-transform);
+  font-weight: var(--font-weight-bold);
+  margin: var(--section-tagline-margin);
 }
 
 :root {
