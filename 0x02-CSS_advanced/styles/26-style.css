@@ -611,7 +611,7 @@ ul.row {
   color: var(--text-color);
 }
 
-[class*="col-"] {
+[class^="col-"] {
   float: right;
   padding: 0.5rem;
 }
