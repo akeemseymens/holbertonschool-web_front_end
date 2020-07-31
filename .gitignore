@@ -1,6 +1,5 @@
 /.DS_Store
 *node-v12.18.3.pkg
-*debug_log.scss
 0x03-sass_scss/10-colors.scss
 0x03-sass_scss/11-photos.scss
 0x03-sass_scss/103-sort_list.scss
