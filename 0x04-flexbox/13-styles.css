@@ -731,7 +731,7 @@ ul.row {
 }
 
 /* Post Meta
-  ============================= */
+    ============================= */
 .post-meta-list {
   flex-direction: column;
 }
@@ -748,7 +748,7 @@ ul.row {
   padding-bottom: 1rem;
   border-bottom: 0.2rem solid var(--color-light-grey);
 }
- 
+
 .post-meta-list [class^="post-meta-"]:last-child {
   border: none;
   margin-bottom: 3rem;
@@ -770,6 +770,6 @@ ul.row {
   content: ", ";
 }
 
-.tag-list lis:last-child::after {
+.tag-list li:last-child::after {
   content: "";
 }
